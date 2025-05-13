@@ -11,3 +11,6 @@ beautifulsoup4
 yfinance
 newspaper3k
 textblob
+langchain_community
+langgraph
+sounddevice
