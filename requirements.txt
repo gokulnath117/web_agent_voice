@@ -7,3 +7,7 @@ textblob
 dotenv
 gtts
 pydub
+beautifulsoup4
+yfinance
+newspaper3k
+textblob
