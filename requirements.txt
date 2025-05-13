@@ -14,3 +14,7 @@ textblob
 langchain_community
 langgraph
 sounddevice
+lxml_html_clean
+libasound-dev
+libportaudio2
+PyAudio
