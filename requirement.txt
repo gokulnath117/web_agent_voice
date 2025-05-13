@@ -1,7 +1,0 @@
-fastapi
-speech_recognition
-langchain_google_genai
-langgraph_supervisor
-duckduckgo_search
-newspaper
-textblob

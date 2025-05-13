@@ -5,3 +5,5 @@ langgraph_supervisor
 duckduckgo_search
 textblob
 dotenv
+gtts
+pydub
